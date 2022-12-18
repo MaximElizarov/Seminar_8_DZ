@@ -1,0 +1,15 @@
+C:\С#_Seminar_8_DZ\Zadahya_56\bin\Debug\net6.0\Zadahya_56.exe
+C:\С#_Seminar_8_DZ\Zadahya_56\bin\Debug\net6.0\Zadahya_56.deps.json
+C:\С#_Seminar_8_DZ\Zadahya_56\bin\Debug\net6.0\Zadahya_56.runtimeconfig.json
+C:\С#_Seminar_8_DZ\Zadahya_56\bin\Debug\net6.0\Zadahya_56.dll
+C:\С#_Seminar_8_DZ\Zadahya_56\bin\Debug\net6.0\Zadahya_56.pdb
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.csproj.AssemblyReference.cache
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.GeneratedMSBuildEditorConfig.editorconfig
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.AssemblyInfoInputs.cache
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.AssemblyInfo.cs
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.csproj.CoreCompileInputs.cache
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.dll
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\refint\Zadahya_56.dll
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.pdb
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\Zadahya_56.genruntimeconfig.cache
+C:\С#_Seminar_8_DZ\Zadahya_56\obj\Debug\net6.0\ref\Zadahya_56.dll
